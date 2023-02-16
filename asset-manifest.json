@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ulyagram77/Marvel-App.git/static/css/main.a0b98b02.css",
-    "main.js": "/ulyagram77/Marvel-App.git/static/js/main.5f057152.js",
-    "static/media/vision.png": "/ulyagram77/Marvel-App.git/static/media/vision.067d4ae1936d64a577ce.png",
-    "static/media/mjolnir.png": "/ulyagram77/Marvel-App.git/static/media/mjolnir.61f31e1809f12183a524.png",
-    "static/media/error.gif": "/ulyagram77/Marvel-App.git/static/media/error.42292aa12b6bc303ce99.gif",
-    "index.html": "/ulyagram77/Marvel-App.git/index.html",
-    "main.a0b98b02.css.map": "/ulyagram77/Marvel-App.git/static/css/main.a0b98b02.css.map",
-    "main.5f057152.js.map": "/ulyagram77/Marvel-App.git/static/js/main.5f057152.js.map"
+    "main.css": "/Marvel-App/static/css/main.a0b98b02.css",
+    "main.js": "/Marvel-App/static/js/main.3a8f140d.js",
+    "static/media/vision.png": "/Marvel-App/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/Marvel-App/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/error.gif": "/Marvel-App/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/Marvel-App/index.html",
+    "main.a0b98b02.css.map": "/Marvel-App/static/css/main.a0b98b02.css.map",
+    "main.3a8f140d.js.map": "/Marvel-App/static/js/main.3a8f140d.js.map"
   },
   "entrypoints": [
     "static/css/main.a0b98b02.css",
-    "static/js/main.5f057152.js"
+    "static/js/main.3a8f140d.js"
   ]
 }
